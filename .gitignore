@@ -1,4 +1,12 @@
 credentials.txt
+.idea
+
+node_modules/
+**/node_modules/
+**/.next/
+**/dist/
+**/.env
+
 /home/deploy/mandivia/frontend/.env
 /home/deploy/mandivia/backend/.env
 /home/deploy/.cache/
@@ -6,4 +14,3 @@ credentials.txt
 /home/deploy/.pm2/
 /home/deploy/mandivia/backend/node_modules/
 /home/deploy/mandivia/frontend/node_modules/
-/.idea
